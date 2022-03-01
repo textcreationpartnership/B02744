@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rebellion arraign'd a sermon preach'd before their Majesties in their chappel at Whitehall, upon the 30th of January 1687. The anniversary and humiliation-day, in abhorrency of the sacrilegious murder of our gracious sovereign Charles I. / By the reverend father John Dormor, of the Society of Jesus.</title>
+            <author>J. D. (John Dormer), 1636-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02744</idno>
+            <idno type="STC">Wing D1926A</idno>
+            <idno type="STC">ESTC R174707</idno>
+            <idno type="EEBO-CITATION">53981642</idno>
+            <idno type="OCLC">ocm 53981642</idno>
+            <idno type="VID">180201</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180201)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2820:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rebellion arraign'd a sermon preach'd before their Majesties in their chappel at Whitehall, upon the 30th of January 1687. The anniversary and humiliation-day, in abhorrency of the sacrilegious murder of our gracious sovereign Charles I. / By the reverend father John Dormor, of the Society of Jesus.</title>
+                  <author>J. D. (John Dormer), 1636-1700.</author>
+               </titleStmt>
+               <extent>[2], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Mary Thompson at the Entrance into Old-Spring-Garden near Charing-Cross,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within black mourning border.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Death and burial --  Sermons.</term>
+               <term>Bible. --  N.T. --  Peter, 1st, V, 6 --  Sermons --  17th century.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180201:1" rendition="simple:additions"/>
+            <p>
+               <hi>Rebellion Arraign'd,</hi>
+            </p>
+            <p>A SERMON Preach'd before Their MAJESTIES In Their Chappel at WHITEHALL, Upon the 30th. of <hi>January</hi> 1687.</p>
+            <p>The <hi>Anniverſary</hi> and <hi>Humiliation-Day,</hi> In Abhorrency of the Sacrilegious Murder Of our Gracious Sovereign CHARLES I</p>
+            <p>By the Reverend Father <hi>JOHN DORMOR,</hi> of the Society of <hi>Jeſus.</hi>
+            </p>
+            <p>Permiſſu Superiorum.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Mary Thompſon</hi> at the Entrance into <hi>Old-Spring-Garden</hi> near <hi>Charing-Croſs,</hi> 1688,</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:180201:2"/>
+            <pb facs="tcp:180201:2"/>
+            <pb facs="tcp:180201:3"/>
+            <pb facs="tcp:180201:3"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>SInce the Printing of the <hi>Pha<g ref="char:EOLhyphen"/>riſee</hi>'s <hi>Council;</hi> my Promiſe has been Challeng'd, and I call'd upon, for two more <hi>Sermons</hi> almoſt out of mind. The Firſt, My <hi>Humiliation Sermon,</hi> Preach'd the <hi>30th.</hi> of <hi>January 87.</hi> nam'd, <hi>Rebellion Arraign'd.</hi> The other Enituled, <hi>The Law of Laws,</hi> and Preach'd the <hi>19th.</hi> of <hi>Septem<g ref="char:EOLhyphen"/>ber 86.</hi> If I told thee in my laſt; <hi>The reſt of my Sermons were at thy call:</hi> Now I tell thee, <hi>call for no more.</hi> It is my deſign to eaſe thee
+<pb facs="tcp:180201:4"/>
+of that Trouble, by publiſhing them all together, as ſoon as Leiſure will give me leave. In the mean time, Remember what thou'lt often find in them; a <hi>ſhort Life</hi> is giving way to a <hi>long Eternity.</hi> Farewell,</p>
+            <closer>
+               <signed>J. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:180201:4"/>
+            <head>A SERMON Preach'd before Their MAJESTIES On the 30th. of <hi>January</hi> 1687.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1</hi> Pet. cap. <hi>5.</hi> ver. <hi>6.</hi>
+                  </bibl>
+                  <p>
+                     <hi>Humiliamini ſub potenti manu Dei, ut vos exaltet in tempore Viſitationis.</hi>
+                  </p>
+                  <p>Be ye humbled under the Powerful Hand of God, that he may exalt you in time of Viſitation.</p>
+               </q>
+            </epigraph>
+            <p>IF ever Nation, to its Advantage and Renown, comply'd with the words of my Text, <hi>Dread Sovereign,</hi> it is your Loyal <hi>England. England</hi> by humbling her ſelf this day in the preſence of God and yours, appears more Glorious, than ever it
+<pb facs="tcp:180201:5"/>
+did, by humbling with force of Arms, her moſt redoubted Enemies. <hi>Victory</hi> in VVar, is often a gift of <hi>Fortune,</hi> at the beſt the fruit of <hi>Va<g ref="char:EOLhyphen"/>lorous Conduct;</hi> dear bought, not ſoon got, and ſoon forfeited. Englands <hi>Humiliation,</hi> is a ſtanding <hi>Victory</hi> of <hi>Peace,</hi> it is a quelling of <hi>Re<g ref="char:EOLhyphen"/>bellion,</hi> it is a <hi>Vindication</hi> of her Kings <hi>Right</hi> and her own <hi>Honour; Chance</hi> has no part in it, <hi>Loyalty</hi> produc'd it: The <hi>Wiſdom</hi> of both Houſes of Parliament concurr'd unto it: It is not fed with Blood and Booty, but Faſting and Tears; with Devotion it is maintain'd, and a forever ſettled <hi>Obedience</hi> renders it Eternal. Thus <hi>England</hi> has Humbled her worſt of Foes, by humbling her ſelf, and by ſo humbling her ſelf, in this time of <hi>Viſitation</hi> of Gods Mercy upon us, is exalted as high, as ever <hi>Rebellion</hi> had caſt her low. <hi>Humiliamini,</hi> &amp;c. <hi>Be ye humbled un<g ref="char:EOLhyphen"/>der the Powerful Hand of God, that he may exalt you in the time of Viſitation.</hi>
+            </p>
+            <p>The unnatural Enemies of their Country joy'd in her Confuſion, in her Diſgrace they Gloried, they Triumph'd in her Loſſes. <hi>England</hi> was gaz'd at by Foreigners as a Monſter, to be kept up, and cut off, from the Commerce with the reſt of the VVorld. <hi>A King Arraign'd?</hi> ſaid they, and with horror; by who but <hi>England?
+<pb n="3" facs="tcp:180201:5"/>
+A King</hi> call'd to the Bar, by who but <hi>Eng<g ref="char:EOLhyphen"/>land? A King</hi> proceſs'd and Condemn'd, by who but <hi>England? A King</hi> brought upon the Scaffold, before his own <hi>Palace</hi> and <hi>People,</hi> and Barbarouſly put to Death; VVhen? VVhere? tell the place, name the Time, mention the Record, by whoever but <hi>England?</hi> Such were the inſulting Reproaches whole <hi>England</hi> was expos'd to, for the guilt of a Crew of <hi>Miſcre<g ref="char:EOLhyphen"/>ants</hi> degenerated from the Fear of God, and antient Allegiance pay'd by Dutyful <hi>England</hi> to her Kings. But <hi>Silence,</hi> O you! Who thus impeach the whole, for the Crime of a few, <hi>A party of wretched men, deſperately Wicked and hardened in Impiety.</hi> They are the words of the <hi>Act</hi> in reference to this day. <hi>The King</hi> was Arraign'd, <hi>The King</hi> was call'd to the Bar; but <hi>England</hi> Sigh'd, <hi>England</hi> Wept. <hi>The King,</hi> againſt all form of Law, was Proceſs'd and Condemned, but <hi>England</hi> Agoniz'd, between Grief and Horror. <hi>The King</hi> was Cruelly Murdered, but <hi>England</hi> Vow'd a juſt <hi>Revenge,</hi> and ſince has taken it of the <hi>Regicides. Re<g ref="char:EOLhyphen"/>bellion</hi> in that time over-rul'd the <hi>Stage, Rebel<g ref="char:EOLhyphen"/>lion</hi> acted the <hi>Tragedy</hi> it had contriv'd; poor <hi>England</hi> diſarm'd, with ſorrowful Eyes was forc'd to look on. No Houſe of <hi>Peers</hi> then
+<pb n="4" facs="tcp:180201:6"/>
+ſat, no free Houſe of <hi>Commons;</hi> a Kennel of <hi>Blood-hounds,</hi> a rude Expreſſion, (did they not merit worſe) were the <hi>Aſſaſſins,</hi> of our moſt Indulgent <hi>Monarch;</hi> they were led on by the Scent of an aſpiring Paſſion, mask'd with Zeal for Religion, ſo to delude ſome: At <hi>Tyranny</hi> they ran with a fair ſhow of <hi>Liberty,</hi> ſo to en<g ref="char:EOLhyphen"/>tice in others. <hi>Liberty</hi> indeed, to debaſe their Equals, to pull down their Betters, to enſlave their Countrey. <hi>England</hi> groan'd under the heavy Scourge, and is no ſooner recover'd, by the Happy and long Sigh'd for Reſtoration of her Natural Prince and Government, but makes it her firſt care, to vindicate her ſelf to Poſterity. Sitting therefore in <hi>Parliament</hi> ſhe de<g ref="char:EOLhyphen"/>clares to the World, her <hi>Inexpreſſible Deteſtation,</hi> and Abhorrency, of that Villanous and abo<g ref="char:EOLhyphen"/>minable Fact, and for a laſting Monument of this her Senſe, ſhe beſeeches the Royal Power to eſtabliſh this day of <hi>Humiliation,</hi> to which <hi>Piety</hi> and <hi>Loyalty</hi> oblidges us to concur. <hi>Hu<g ref="char:EOLhyphen"/>miliamini,</hi> &amp;c. <hi>Be ye humbled under the Powerful Hand of God, that he may exalt you in time of Viſita<g ref="char:EOLhyphen"/>tion.</hi> In order to promote ſo Religious an Act, my firſt point ſhall be to remind you of the ſubject of Humiliation, which is <hi>Rebellion;</hi> and ſince <hi>Rebellion</hi> ſo unhumanely Arraign'd our Gracious
+<pb n="5" facs="tcp:180201:6"/>
+King. My ſecond point ſhall be to Arraign <hi>Rebellion.</hi> My third, to ſee Execution done upon her, and that by the hand of <hi>Humiliation.</hi> But let us firſt implore his Divine Aſſiſtance him, who made himſelf a Patern of <hi>Humilia<g ref="char:EOLhyphen"/>tion</hi> for our Sins, by the Interceſſion of His Virgin Mother, <hi>Ave Maria,</hi>
+               <q>
+                  <hi>Humiliamini,</hi> &amp;c. Be ye humbled under the Powerful Hand of God, that he may exalt you in the time of Viſitation.</q>
+            </p>
+            <p>THe proper ſubject of <hi>Humiliation</hi> is ſin; the greater the ſin, the greater ought the <hi>Humiliation</hi> to be. To private Offences, which prejudice the Offender alone, private <hi>Humiliation</hi> is due, a publick <hi>Humiliation</hi> be<g ref="char:EOLhyphen"/>comes ſins, which influence upon the publick; and no ſins wound the publick ſo dangerouſly, as thoſe, which are deſtructive to <hi>Loyalty, Obe<g ref="char:EOLhyphen"/>dience,</hi> and <hi>Government;</hi> Kings bare the burden and dignity of the Publick, no ſin therefore requires a more ſignal <hi>Humiliation</hi> and <hi>Repen<g ref="char:EOLhyphen"/>tance,</hi> than <hi>Diſloyalty, Rebellion,</hi> and the <hi>Con<g ref="char:EOLhyphen"/>tempt</hi> of the Right of Kings, and their Majeſty; nor was there ever a <hi>Diſloyalty, Rebellion</hi> or <hi>Contempt</hi> equaling that committed, againſt the
+<pb n="6" facs="tcp:180201:7"/>
+Sacred Perſon of <hi>Charles</hi> the Firſt. <hi>Humiliation</hi> then, on this <hi>Anniverſary-Day,</hi> ſhould exceed all others. If I miſtake not, my Diſcourſe holds good, relying upon the juſt proportion to be kept between <hi>Humiliation</hi> and Sin. I could ex<g ref="char:EOLhyphen"/>emplify each part out of <hi>holy Writ,</hi> were I not preſs'd between ſcarcity of Time and Copiouſ<g ref="char:EOLhyphen"/>neſs of matter: It is enough that I inſiſt only upon <hi>Rebellion.</hi>
+            </p>
+            <p>But is not that <hi>Rebellion</hi> to be blotted out of Memory, and buryed in Oblivion? <hi>Old Soares</hi> are not to be ript up. True, if perfectly Heal'd; and if perfectly Healed, yet their trouble and danger, may be expos'd for future Safety and prevention of the like. This is the method obſerv'd by <hi>Preachers</hi> in order to other Sins; and I have no cauſe to deſert it in order to <hi>Rebellion</hi> of ſins the greateſt.</p>
+            <p>
+               <hi>Forgive and forget,</hi> is a maxime of Chriſtian Charity, in ſo much, as I find Acts of Pardon and Indempnity, ſtiled Acts of <hi>Oblivion;</hi> and yet I re<g ref="char:EOLhyphen"/>flect that as pardoning is a property of Good<g ref="char:EOLhyphen"/>neſs, and Magnanimity; ſo to forget, argues a careleſsneſs, or weakneſs of mind. <hi>God forgives, but cannot forget;</hi> and <hi>England</hi> on this day, will not have forgotten, what your Royal Brother, and your <hi>Sacred Majeſty</hi> have ſo Generouſly
+<pb n="7" facs="tcp:180201:7"/>
+forgiven. You have forgiven but, <hi>England</hi> will not forgive her ſelf, and with the nobleſt of Diſpoſitions, doth <hi>Pennance</hi> for a Crime which was not hers. So Chriſt an Innocent, <hi>humbled himſelf for the ſins of his People, even to Death.</hi> Him we are to imitate; by ſo doing, <hi>England</hi> endeavours, to make her Loyalty, vye with your Clemency; and by not forgiving her ſelf, for having been the Mother of a few Vipers, cannot but confirm and encreaſe, that tender Love, ſhown in all Time, even with the evident and many hazards of your <hi>Sacred Perſons,</hi> in Defence of her Rights and Honour.</p>
+            <p>True it is; there is a forgetfulneſs, ever joyn'd with forgiving; for albeit one remember a Diſpleaſure, yet in caſe he pardons it, he for<g ref="char:EOLhyphen"/>gets the main reſentment due unto it. God cannot but remember ſin, yet forgiving it, for<g ref="char:EOLhyphen"/>gets as it were to inflict the Puniſhment of Hell due unto it. This is what the Royal Prophet <hi>Pſal.</hi> 78. and the Prophet <hi>Iſa. c.</hi> 64. both <hi>v.</hi> 8. crave at the hands of God, <hi>Ne memineris Iniqui<g ref="char:EOLhyphen"/>tatum noſtrarum, Remember not our Iniquities,</hi> and in conformity with this it is, that we are order<g ref="char:EOLhyphen"/>ed to implore the Mercy of God, <hi>That neither the guilt of that Sacred Innocent Blood, nor thoſe other ſins, by which God was provok'd, to deliver
+<pb n="8" facs="tcp:180201:8"/>
+us and our King into the hands of Cruel and Un<g ref="char:EOLhyphen"/>reaſonable Men, may at any time, be viſited upon us and our Poſterity.</hi> Thus the Act of Parlia<g ref="char:EOLhyphen"/>ment expreſſes it ſelf, where we are at once re<g ref="char:EOLhyphen"/>minded, of the worſt effect of <hi>Rebellion,</hi> and to Pray God to forget the reſenting it. Having laid the ſubject of <hi>Humiliation</hi> before your Eyes, I come in my ſecond point to Arraign <hi>Rebellion.</hi>
+            </p>
+            <p>
+               <hi>Rebellion,</hi> The Daughter of audacious Pride; <hi>Rebellion,</hi> Mother of the baſeſt Treacheries, <hi>Rebellion</hi> nurſe of private Diſcontents; <hi>Rebel<g ref="char:EOLhyphen"/>lion</hi> ſower of Jealouſies and Fears; <hi>Rebellion</hi> the diſturber of peaceable Minds; <hi>Rebellion</hi> the diſtroyer of true Liberty and Religion; <hi>Re<g ref="char:EOLhyphen"/>bellion</hi> the bain of humane Commerce; <hi>Rebellion</hi> the deſtroyer of Wealth, Happineſs, Birth-right and Life it ſelf; <hi>Rebellion,</hi> the open ene<g ref="char:EOLhyphen"/>my to Order, Government, and God; <hi>Rebel<g ref="char:EOLhyphen"/>lion</hi> blazing in Fire and wallowing in Blood. This is the <hi>Monſter of Monſters,</hi> diſguis'd in all ſhapes to compaſs her ends; her Name I tell you is <hi>Rebellion,</hi> and from her Name I begin her Arraignment.</p>
+            <p>
+               <hi>Rebellion,</hi> Thou art convicted of being a reſtleſs Spirit. Nothing in heaven; no State, no place, no Condition, can poſſibly content thee, <hi>Happineſs</hi> ſwells thee, Miſery enrages
+<pb n="9" facs="tcp:180201:8"/>
+thee, Piety cannot mollify thee, thou art ever for Reform of Religion and Government; whereas <hi>True Religion</hi> alone, can reform thee. <hi>Heaven</hi> could not keep thee in peace, all the delicious Fruits of the Garden of <hi>Eden,</hi> could not ſatisfy thy diſordered Palate; the <hi>Church</hi> has felt the ſmart of thy Diviſions; thou haſt over<g ref="char:EOLhyphen"/>run the <hi>Earth</hi> with Calamities; in Hell alone if thou art quiet, it is becauſe tam'd by puniſh<g ref="char:EOLhyphen"/>ment. <hi>Reſtleſs</hi> thou art; the <hi>World</hi> thy old Ac<g ref="char:EOLhyphen"/>quaintance, comes in Evidence of it, by impo<g ref="char:EOLhyphen"/>ſing the Name of <hi>Rebellion</hi> upon the: from <hi>Re.</hi> and <hi>Bello.</hi> I War again. <hi>Rebellion</hi>'s ſtomach turns at the ſweets of quiet: Unfeign'd <hi>Hydra,</hi> in the Fens and Bogs of Diſcontents ſhe breeds, Is one head cut off? Without fable another ſhoots up. Is ſhe beaten to the ground? She renews her Forces, She's ever beginning, ever Warring. Has ſhe no Sword to manage? She Wars with her Tongue, ſhe Wars with her Pen. If daring neither; ſhe Wars with her Thoughts, ſhe lays her Deſignes, ſhe expects her Time, ſhe's ever <hi>Rebellion</hi> warring again, a reſtleſs Spirit by <hi>Deeds</hi> anſwering her <hi>Name.</hi> And from her <hi>Name,</hi> I paſs to her <hi>Deeds.</hi>
+            </p>
+            <p>
+               <hi>Rebellion,</hi> Thou art brought in <hi>Guilty of being wilfully void of Reaſon.</hi> A Rebel, in the firſt place,
+<pb n="10" facs="tcp:180201:9"/>
+wages war againſt himſelf, by oppoſing the Law of <hi>Nature,</hi> which is his own <hi>Reaſon. Rea<g ref="char:EOLhyphen"/>ſon</hi> promotes a friendly Intercourſe between Men, to their reciprocal Help and Comfort; <hi>Rebellion</hi> obſtructs it. In order to this amicable Society, <hi>Reaſon</hi> preſcribes a <hi>Supreme Power</hi> to end ſtrifes, when ariſing; to provide againſt <hi>Invaders</hi> of the common ſafety. Rebellion will be <hi>Arbi<g ref="char:EOLhyphen"/>trary,</hi> will ſtand to no <hi>Authority,</hi> will her ſelf invade. <hi>Reaſon</hi> teaches us to Sacrifice a <hi>Pri<g ref="char:EOLhyphen"/>vate</hi> Intereſt, Diſguſt or Wrong, to the <hi>Pub<g ref="char:EOLhyphen"/>lick</hi> Tranquility. <hi>Rebellion</hi> will have the <hi>Pub<g ref="char:EOLhyphen"/>lick</hi> Welfare to truckle to <hi>Private</hi> Paſſion. Rea<g ref="char:EOLhyphen"/>ſon's Deciſion is, that a patient Sufferance, is preferable to a ſucceſsful <hi>Rebellion;</hi> Rebellion feignes cauſes of Sufferance, where there's none. In all her Proceedings unreaſonable, But more,</p>
+            <p>
+               <hi>Rebellion,</hi> The fouleſt <hi>Ingratitude is Charged upon thee.</hi> Nothing works ſo forcibly upon the generous Heart of Man, as to ſee himſelf lov'd: But Rebellion of a Man, thou leav'ſt no more than a Figure. Love by thee is ſlighted. Thou devideſt Friends, thou Arm'ſt Patriot againſt Patriot, thou ſtirreſt up Relation againſt Re<g ref="char:EOLhyphen"/>lation, Brother againſt Brother, Son againſt Father; the Love of thy Prince is requited with Hatred and Diſdain. No tye, which
+<pb n="11" facs="tcp:180201:9"/>
+thou doſt not unlooſe; no knot, which thou doſt not untye or cut, <hi>Country, King, God,</hi> cannot win thee with Kindneſs, I'll only give a glance at ſome particulars, too well known to dwell long on them.</p>
+            <p>Heaven is the ſeat of Felicity, the center of Bliſs: <hi>Lucifer</hi> vouchſafe to be at reſt; ſubmit, and it is thine: No where canſt thou be more at eaſe. <hi>Rebellion has ſtopt his Ears, and he's un<g ref="char:EOLhyphen"/>quiet.</hi> Reaſon tells thee, it's a madneſs to Riſe againſt thy Maker. <hi>Where Rebellion has got in, Reaſon's not heard.</hi> God has conferr'd the No<g ref="char:EOLhyphen"/>bleſt of Beings upon thee, what more endea<g ref="char:EOLhyphen"/>ring? <hi>But endearments looſe their Vertue with Rebellion.</hi>
+            </p>
+            <p>
+               <hi>Adam</hi> let this Example be a warning to Thee and Terror. I come too late. Neither the for<g ref="char:EOLhyphen"/>tunate ſtate of <hi>Paradice,</hi> nor his own <hi>Reaſon</hi> excelling all other, nor the Demonſtrations of Gods ſingular favour, could allay the Spirit of <hi>Rebellion,</hi> that had enter'd his Heart, when that <hi>Eritis ſicut Dii, You ſhall be like Gods,</hi> had en<g ref="char:EOLhyphen"/>ter'd his Ears. What ſhall I ſay to the contu<g ref="char:EOLhyphen"/>macious Children of <hi>Iſrael?</hi> What to the un<g ref="char:EOLhyphen"/>natural <hi>Abſalom?</hi> No Content, no Reaſon, no Kindneſs, could abate their Seditious Fury, and to advance to the ſubject I now am on.</p>
+            <p>
+               <pb n="12" facs="tcp:180201:10"/>
+               <hi>England</hi> was an Earthly <hi>Heaven,</hi> a worldly <hi>Paradice:</hi> The <hi>Liberty</hi> of the Subject, with a grateful acknowledgement, Reverenced the <hi>Royal Prerogative. Law</hi> ran in its natural Chan<g ref="char:EOLhyphen"/>nel, each one ſat under his own Vine, fed of his own Grape, ever ready to lay down Life and Fortune, for his Princes Honour and Safety; when <hi>Rebellion</hi> ſtomaching at ſo much Proſpe<g ref="char:EOLhyphen"/>rity, revolts againſt <hi>Religion,</hi> reſolute never to end, but by making an end of Government.</p>
+            <p>Was there ever <hi>Sovereign</hi> who tender'd his Subjects <hi>Liberty,</hi> who abhorr'd the effuſion of Blood, <hi>Sacred Majeſty,</hi> it was your <hi>Royal Parent.</hi> What Clemency did he not uſe, in putting up in<g ref="char:EOLhyphen"/>juries? What Advantages did he not forfeit, by ketching at every overture of <hi>Peace,</hi> to avoid the Miſeries enſuing upon his Kingdom? <hi>Peace</hi> was his Darling: But <hi>Rebellion</hi> was reſtleſs. <hi>Englands</hi> Happineſs, was ever in his Eye, the object of his Wiſhes. But <hi>Rebellion</hi> hated its Fe<g ref="char:EOLhyphen"/>licity and Repoſe. The Comlineſs of his <hi>Perſon,</hi> the Exquiſitneſs of his <hi>Wit,</hi> the Sweetneſs of his <hi>Temper,</hi> the Undauntedneſs of his <hi>Mind;</hi> ſhew'd in the midſt of the greateſt Calamities, would have gain'd the Affection of any, but <hi>Unreaſon<g ref="char:EOLhyphen"/>able and Ungrateful Rebells:</hi> His only Failure was, (if I may be ſo bold,) That he was more
+<pb n="13" facs="tcp:180201:10"/>
+covetous of his Subjects <hi>Safety</hi> than his <hi>Own;</hi> more concern'd for <hi>Them,</hi> than reſenting their Diſloyalty, his Condeſcentions he acknowledges in his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>Royal Portract</hi> paſs'd too far; all to gain his Enemies; and what in Rea<g ref="char:EOLhyphen"/>ſon could be of greater force, to ſubdue Hearts of <hi>Men,</hi> than ſuch Paternal Proceedings? But all in vain; the hardſhip of his Fate was, he had to deal with worſe than <hi>Brutes;</hi> he had to deal with <hi>Rebels.</hi> No gaining Rebellion by <hi>Love or Reaſon. Love</hi> is deem'd Weakneſs, <hi>Reaſon</hi> is againſt the Liberty of the Spirit. <hi>Re<g ref="char:EOLhyphen"/>bellion</hi> is a pure, pure, Spirit, but in nothing more, than that pure Spirits, as Divines teach us, in the fall of the Angels are <hi>Incorrigible,</hi> and ſo for the moſt part are Rebels. <hi>Reaſon</hi> works not upon them, Favours will not oblige them; their Spirit is fix'd upon inquitude, their Cauſe is ever for pretended <hi>Religion</hi> and <hi>Property,</hi> which puts me in mind of carrying on my Proceſs,</p>
+            <p>Again, I find <hi>Rebellion</hi> notoriouſly Convicted of having invaded <hi>Property,</hi> under pretext of maintaining it. True regard to <hi>Property</hi> would reſpect the greateſt of <hi>Properties:</hi> The <hi>Property</hi> Kings have, not only to their Revenues, but much more to be Obey'd, in what concerns their Government. Had the leaſt ſparkle of
+<pb n="14" facs="tcp:180201:11"/>
+this regard, had place in the Rebels thoughts, they'd never run to ſuch Extremities. His <hi>Sa<g ref="char:EOLhyphen"/>cred Majeſty</hi> had never intrench'd upon the <hi>Pro<g ref="char:EOLhyphen"/>perty</hi> of any. Whatever he acted, was with the Advice of the <hi>Judges</hi> of the <hi>Nation;</hi> and well it might be, and it ought to be preſum'd, they knew what was due to <hi>Law, Property,</hi> and <hi>Prerogative.</hi>
+            </p>
+            <p>But grant he had taken a ſtep too far, was the Subject to rage with <hi>Rebellion,</hi> to Depo<g ref="char:EOLhyphen"/>pulate the <hi>Nation</hi> with Sword and Flames; and in room of Kings and Countrys <hi>Property,</hi> bring in <hi>Tyranny?</hi> Theſe were the lamentable effects of <hi>Rebellion</hi> convicted, of having invaded <hi>Proper<g ref="char:EOLhyphen"/>ty,</hi> under Profeſſion of upholding it. <hi>To main<g ref="char:EOLhyphen"/>tain Property;</hi> Houſes were Pillag'd: <hi>To main<g ref="char:EOLhyphen"/>tain Property;</hi> Villages were Fir'd: <hi>To main<g ref="char:EOLhyphen"/>tain Property;</hi> Townes were Beleagur'd, and Batter'd, <hi>To maintain Property;</hi> ſo many Battles were Fought, ſo many thouſands, and thouſands of Lives cut off: <hi>To maintain Property;</hi> Eſtates of the Loyal were Confiſcated, the Rights of both Houſes aboliſh'd, the People burden'd with Impoſitions. <hi>Rebellion</hi> will tell you, (and who'll believe her but <hi>Rebels</hi>) all was to main<g ref="char:EOLhyphen"/>tain <hi>Property,</hi> but the pretence of <hi>Property</hi> went not alone; it joyn'd hand and hand with appea<g ref="char:EOLhyphen"/>rance
+<pb n="15" facs="tcp:180201:11"/>
+of <hi>Religion</hi> and <hi>Rebellion,</hi> appears horribly tainted with the moſt execrable Hypocriſy.</p>
+            <p>
+               <hi>Religion was in the Caſe.</hi> Was it ſo? O Holy Rebellion! So highly concern'd for <hi>Religion:</hi> That thou art ever new modelling it. The Reaſon may be; that thy Principles, and thoſe of True Religion, cannot ſubſiſt; and ſince thou art reſolute, not to ſhape thy Prin<g ref="char:EOLhyphen"/>ciples to <hi>Religion,</hi> thou'lt cut out a <hi>Religion</hi> to thy Principles. <hi>Religion</hi> is Peaceable, thou Seditious. <hi>Religion</hi> teaches Submiſſion to <hi>God,</hi> and his <hi>Vicars;</hi> but that Leſſon is not for thee: <hi>Perpetual Change</hi> is thy buſineſs. <hi>Innovation</hi> is thy inſeparable Camerade; and one <hi>Innovation</hi> is ever a precedent for an other; and in all thou art the <hi>Leader.</hi> Thy Spirit is a ſingular one, it cannot away with what is common; as if Religion by being the common, could be<g ref="char:EOLhyphen"/>come the Proſtitute of <hi>Babylon:</hi> The Truth is, <hi>Church Orders,</hi> are of too great a Subjection; thy <hi>Spirit</hi> will be at <hi>Freedom,</hi> the <hi>Lord</hi> alone muſt govern it. That is, the <hi>Lord</hi> in the Mouth, and <hi>Belzebub</hi> in the Heart. <hi>Religion</hi> upon the Lips, and <hi>Alteration</hi> of Government in Deſign. Thy <hi>Religion</hi> was, to change Churches into Stables, Bells into Canons, Leads into Bullets: It was <hi>Hypocriſy,</hi> not <hi>Religion.</hi> And O! that
+<pb n="16" facs="tcp:180201:12"/>
+here I might ſtop, and ſtay thy fury, which draws me on to the laſt Act, Horror chilling my Blood at the very Thought of what I am to ſay.</p>
+            <p>Rebellion appearing convicted of being a <hi>reſt<g ref="char:EOLhyphen"/>leſs Spirit;</hi> of violating the Law of Nature, <hi>Reaſon;</hi> of the baſeſt <hi>Ingratitude,</hi> in abuſing her Princes <hi>Love;</hi> of having invaded <hi>Property;</hi> of moſt prophane <hi>Hypocriſy:</hi> That nothing ſhould be wanting to the greateſt exceſs of Ini<g ref="char:EOLhyphen"/>quity, ſhe paſſes the utmoſt bounds, of <hi>Exor<g ref="char:EOLhyphen"/>bitancy</hi> and <hi>Cruelty.</hi> In all ſhe has done, ſhe pretends to <hi>Juſtice</hi> and <hi>Revenge,</hi> and that by <hi>Law,</hi> and that againſt her <hi>Sovereign.</hi>
+            </p>
+            <p>The Deſign of <hi>Rebellion,</hi> ever lurks in the breaſt of a few; by her ſpecious Cheats, many are engag'd; ſhe is an <hi>Artiſt</hi> in contriving. Property, Religion, Law, ſhe makes her diffe<g ref="char:EOLhyphen"/>rent Scenes, and turns them at her Pleaſure, to humour the Parts ſhe's reſolv'd to perform. Having the <hi>Sword</hi> in her Hands, ſhe pulls off her Mask, and diſcovers her Villanous Inten<g ref="char:EOLhyphen"/>tions; ſhe erects a Court of <hi>High Juſtice,</hi> and behold the <hi>Cataſtrophe,</hi> The laſt Act of the diſmal Tragedy; <hi>She Arraigns her King.</hi> Ah <hi>Rebellion! Rebellion!</hi> Thy earneſt Demonſtra<g ref="char:EOLhyphen"/>tions of zeal for <hi>Property</hi> and <hi>Religion,</hi> are they
+<pb n="17" facs="tcp:180201:12"/>
+come to this? Thy pretentions, ever are <hi>Jeza<g ref="char:EOLhyphen"/>bels,</hi> Fair in ſhow, in ſubſtance Cruel. <hi>A High Court of Juſtice?</hi> A High Court of <hi>Enor<g ref="char:EOLhyphen"/>mity</hi> and <hi>Treaſon.</hi> Do'ſt thou know who thou Arraigneſt? <hi>He is thy King.</hi> Do'ſt thou know, whoſe Condemnation and Murder thou haſt reſolv'd? <hi>It is thy King's.</hi> Conſult the Funda<g ref="char:EOLhyphen"/>mental Laws. Conſult? What need of Con<g ref="char:EOLhyphen"/>ſult, where the Abomination ſo clearly diſ<g ref="char:EOLhyphen"/>covers it ſelf? <hi>High Court of Juſtice?</hi> If this be <hi>Justice;</hi> what is <hi>Treaſon?</hi> And if this be <hi>Trea<g ref="char:EOLhyphen"/>ſon,</hi> and of <hi>Treaſons</hi> the moſt Horrid; down with the Name of <hi>High Court of Juſtice?</hi> No Court can be held, but by Power from the King, and no King can lend that Power againſt himſelf. But ſince thy vain Plea is <hi>Law,</hi> and thou wilt not know what a <hi>King</hi> is. It is my Duty to make thee know, both what is <hi>Law?</hi> And what's a <hi>King?</hi>
+            </p>
+            <p>It is not the <hi>Sword,</hi> it is not the <hi>Mace,</hi> it is not the Grave <hi>Attire,</hi> it is not the <hi>Bar,</hi> it is not the <hi>Chair,</hi> it is not the reſt of <hi>Formalities,</hi> which conſtitute <hi>Law;</hi> they'r only to ſuſtain its Dig<g ref="char:EOLhyphen"/>nity. <hi>Rebellion</hi> may uſurp them, to colour <hi>In<g ref="char:EOLhyphen"/>juſtice;</hi> but can have no <hi>Law</hi> to juſtify her Pro<g ref="char:EOLhyphen"/>ceedings. <hi>Law is an obliging rule of humane Acti<g ref="char:EOLhyphen"/>ons, ever order'd to the common good.</hi> To be <hi>Ob<g ref="char:EOLhyphen"/>liging</hi>
+               <pb n="18" facs="tcp:180201:13"/>
+its Authority muſt be deriv'd from above, from God; and this Authority God has plac'd in his Vicars Supreme Governours. To be a Rule it muſt not deflect, from the firſt Rule of the Divine Will and Command, it muſt ſtand with <hi>Reaſon</hi> and <hi>Juſtice;</hi> the <hi>Peace</hi> and <hi>Good</hi> of the <hi>Publick</hi> muſt be its end: And to be for the common good, Law cannot be a wea<g ref="char:EOLhyphen"/>pon of <hi>private</hi> Paſſion. No <hi>Law</hi> then can up<g ref="char:EOLhyphen"/>hold this Court of thine, O <hi>Rebellion!</hi> Thy ends are <hi>Private.</hi> Thou reced'ſt from the firſt Rule, by uſurping Gods Prerogative, who alone is the <hi>King</hi> and <hi>Judge</hi> of <hi>Kings:</hi> It is a<g ref="char:EOLhyphen"/>gainſt Reaſon to claim Power over a Supreme, it is Unjuſt to Arraign thy Judge. <hi>Law</hi> then oppoſes thy Pretentions to <hi>Law,</hi> and the Dig<g ref="char:EOLhyphen"/>nity of a <hi>King</hi> wholly defeats them.</p>
+            <p>Will'ſt thou once learn what a King is? Give Ear. <hi>God is the King of Kings,</hi> 1 Tim. 6.15. And Kings are as it were the Gods of their People: Kings cannot be Gods Judge, nor can the People be their Kings. Who is the Supreme? Who the Judge without Appeal, but the <hi>King?</hi> To whom do inferior Judges own their Autho<g ref="char:EOLhyphen"/>rity, but to the <hi>King?</hi> From who do Courts re<g ref="char:EOLhyphen"/>ceive their Power, but from the <hi>King?</hi> In whoſe Name are Impeachments drawn up, but
+<pb n="19" facs="tcp:180201:13"/>
+in the Kings? Acts of Parliament; by who are they Enacted, but by the King! And by conſequence, the final <hi>Legiſlative Power,</hi> in who doth it reſide, but in the <hi>King. By the undoubted fundamental Laws of this Kingdom, neither the Peers of this Realm, nor the Commons, nor both together in Parliament; nor the People Collectively or repreſentatively, nor any other Perſons whatſoever, ever had, have, or ought to have any Co-ercive Power over the Perſons of the Kings of this Realm.</hi> It is the Parliament which ſpeaks, and yet <hi>Re<g ref="char:EOLhyphen"/>bellion</hi> againſt <hi>The undoubted and Fundamental Laws,</hi> dar'd Erect a <hi>High Court of Juſtice</hi> againſt her Sovereign, and what dares not <hi>Rebellion</hi> do? She is too well vers'd in Holy Writ, not to know, <hi>That to reſiſt Kings, is to reſiſt God;</hi>
+               <note place="margin">Rom. 13.</note> What ſhall it be to Proceſs, to Condemn, to murder one?</p>
+            <p>But by who is he to be Try'd? <hi>Com<g ref="char:EOLhyphen"/>mons</hi> are Try'd by <hi>Commons, Peers</hi> by <hi>Peers;</hi> have you a Jury of <hi>Kings?</hi> And had you, there's no Judge left to give the Sentence but God: And Woe to <hi>Rebellion,</hi> when God's to Sentence. More yet; in caſe you Condemn him according to your execrable Formality of pretended Law, may he not grant himſelf a Reprive? He can beſtow it upon the meaneſt, and moſt guilty Subject, ſhall he not be able
+<pb n="20" facs="tcp:180201:14"/>
+to confer it upon himſelf; he can give it ano<g ref="char:EOLhyphen"/>ther, even when the Sentence is moſt Juſt; and ſhall he not enjoy his own Prerogative againſt the moſt unjuſt of Sentences?</p>
+            <p>
+               <hi>Ah!</hi> To what end do I tyre my ſelf and you? Our Renowned Prince, plac'd by God above <hi>Law,</hi> without <hi>Law,</hi> and againſt <hi>Law,</hi> muſt fall a Victim to the higheſt Injuſtice. <hi>Rebellion</hi> has got the Sword, and the Sword without the Ballance is the Type of <hi>Cruelty;</hi> to <hi>Cruelty</hi> Majeſty is forc'd to bend; and Sacri<g ref="char:EOLhyphen"/>legious Rebellion never appear'd with ſo ghaſt a Countenance, as imbru'd in his Royal <hi>Blood.</hi> That <hi>Blood</hi> will ever ſet her out to the deteſta<g ref="char:EOLhyphen"/>tion and horror of the World. That <hi>Blood</hi> will blaze her to all Ages for what ſhe is. That <hi>Blood</hi> will ſpeak aloud and ſay: Fly <hi>Rebellion,</hi> ſhe'll never ſpare Subject, that durſt Proceſs, Condemn, and by Name of <hi>High Juſtice,</hi> Mur<g ref="char:EOLhyphen"/>der the Meekeſt of Monarchs. No more, no more, of what without Affliction and Tears, I cannot call to mind. His laſt Thoughts were his Peoples <hi>Welfare,</hi> his Kingdoms <hi>Peace,</hi> his Nations <hi>Happineſs;</hi> he died, undaunted, like himſelf, like a King, forgiving what the World will never forget, ſo <hi>Sacrilegious a Murder.</hi> That Pardon, that Innocent Blood, crys yet
+<pb n="21" facs="tcp:180201:14"/>
+for Revenge againſt <hi>Rebellion,</hi> and upon <hi>Re<g ref="char:EOLhyphen"/>bellion</hi> let it fall; let <hi>Rebellion</hi> die never more to riſe; let it die by the hand of <hi>Humiliation;</hi> The ſubject of my third point, with which I conclude, <hi>Humiliamini,</hi> &amp;c. <hi>Be ye humbled under the powerful Hand of God, that he may exalt you in time of Viſitation.</hi>
+            </p>
+            <p>In my preceding Diſcourſe, you have ſeen at Leiſure <hi>Rebellion Arraign'd,</hi> Proceſs'd and Convicted, of the moſt deteſtable of Crimes, and by conſequence <hi>Guilty</hi> of the worſt of Pu<g ref="char:EOLhyphen"/>niſhments; And as her Sins ſurmounts all o<g ref="char:EOLhyphen"/>thers, ſo would I have her Chaſtiſement pro<g ref="char:EOLhyphen"/>portionable. The ſubject is of a large extent; but not to tranſgreſs, I will cloſe it in little. Men that die for Offences will riſe again. <hi>Re<g ref="char:EOLhyphen"/>bellion</hi> I would have her die ſo, as never to re<g ref="char:EOLhyphen"/>vive. Let <hi>Rebellion</hi> then die, but how, <hi>Sub potenti manu Dei, Under the Powerful Hand of God, by an humble</hi> Obedience, For what end? <hi>That God may exalt us in time of Viſitation.</hi>
+            </p>
+            <p>God has his different Viſitations, as you'l find in <hi>Holy Writ;</hi> Viſitations of Anger, Vi<g ref="char:EOLhyphen"/>ſitations of Love, Viſitations of Mercy, Viſi<g ref="char:EOLhyphen"/>tations of Revenge, Viſitations of Humbling, Viſitations of Exalting: His Viſits of Humb<g ref="char:EOLhyphen"/>ling, Anger and Revenge lay grievous upon
+<pb n="12" facs="tcp:180201:15"/>
+us by the Scourge of <hi>Rebellion;</hi> a Road grown on our own Soil, This ſeems a time of a Viſita<g ref="char:EOLhyphen"/>tion of his Love, Mercy, and Exalation upon us. But <hi>Humiliamini, Humiliamini, Be ye humbled.</hi> We may humble our ſelves, and we may be humbled by another; to be humbled by ano<g ref="char:EOLhyphen"/>ther, is commonly a Chaſtiſement, to humble our ſelves, is now and then a ſatisfaction, in order to <hi>Rebellion</hi> it is a Pevention; ſo that our humbling our ſelves, is at once a ſatisfacti<g ref="char:EOLhyphen"/>on, for <hi>Rebellion</hi> that's paſs'd, and prevention of <hi>Rebellion</hi> that might come; and behold, the deſir'd Execution done by <hi>Obedience</hi> upon <hi>Rebellion;</hi> greater revenge cannot be taken. Satisfaction deſtroys it, and puts it, as I may ſay to Death, Prevention hinders it from re<g ref="char:EOLhyphen"/>viving, ſo that Humiliation Tryumphs in the utter ruine of <hi>Rebellion.</hi>
+            </p>
+            <p>And had I not Reaſon in the beginning of my Diſcourſe to term it <hi>England</hi>'s ſtanding <hi>Peace,</hi> more glorious than any victory in War? So it is. If <hi>Obedience</hi> ſtands, <hi>Rebellion</hi> muſt fall. And by this Humiliation Day, our Obedience being perpetuated, <hi>Rebellion</hi> muſt down for ever, <hi>Be ye then humbled under the Powerful hand of God.</hi> The <hi>Powerful hand of God,</hi> I interpret to be <hi>Kings,</hi> in their <hi>Scepter</hi> they ſway Gods
+<pb n="9" facs="tcp:180201:15"/>
+Power, in their Sword his Juſtice; and ſo by Obedience to our Prince, we are <hi>Humbled under the Powerful hand of God,</hi> to the total extirpa<g ref="char:EOLhyphen"/>tion of <hi>Rebellion.</hi> The beſt of ſatisfactions we can give to the Royal Father, is to annihi<g ref="char:EOLhyphen"/>late <hi>Rebellion</hi> by a true Allegiance to his great Son; <hi>Faſting</hi>'s good, <hi>Prayer</hi> yet more excel<g ref="char:EOLhyphen"/>lent, by them the Rebellion of the fleſh is tam'd the Rebellion of the Spirit by ſole <hi>Obe<g ref="char:EOLhyphen"/>dience.</hi>
+            </p>
+            <p>The ever hard neck'd Children of <hi>Iſrael.</hi> They Faſted, <hi>Iſaiah</hi> 5.8. <hi>v.</hi> 3. <hi>Wherefore have we Faſted, and thou ſeeſt not? wherefore have we af<g ref="char:EOLhyphen"/>flicted our Soul, and thou takeſt not knowledge?</hi> Rebellion can Faſt, and none invoke the Lord with longer breath than Rebels: But their Faſt and Prayers are not acceptable to the moſt High, They'r Diſobedient, their Humiliation is Hy<g ref="char:EOLhyphen"/>pocriſy, it enters not the heart; Hear what the Lord Anſwers to the complaint of thoſe pre<g ref="char:EOLhyphen"/>tenders to <hi>Prayers</hi> and <hi>Faſts, Behold in the day of your Faſting your own Will is found.</hi> A Rebel will ever have his own will, and refuſing to ſubmit his Will to God, gives out Gods Will to be his; and ſo makes God as it were a Subject, and himſelf a God. From Obedience then our Humiliation is to derive its whole Worth and
+<pb n="24" facs="tcp:180201:16"/>
+Valour, and that it may be eternal, to the eternal deſtruction of Rebellion, O that <hi>Eng<g ref="char:EOLhyphen"/>land</hi> would learn to know the voice of the <hi>Ser<g ref="char:EOLhyphen"/>pent!</hi> Would learn no more to be deluded by thoſe canting Charms of <hi>Liberty, Property,</hi> and <hi>Religion.</hi> Remember that even <hi>Satan</hi> the Prince of Darkneſs, 2 <hi>Cor. c.</hi> 11. <hi>v.</hi> 14. read the place, it is much to our purpoſe, transfigures himſelf into an <hi>Angel of Light.</hi> And ſo doth his firſt Child <hi>Rebellion.</hi> No pretence whatſoever can Juſtify <hi>Rebellion.</hi> You have a Prince, whoſe Wiſdom and Experience makes him know your true Good and Happineſs, I may confidently ſay, better than you know it your ſelves. Truſt him, who God has Intruſted with you. With the free uſe of your <hi>Religion,</hi> your Bodies and Minds he has both eas'd: He has vindicated your <hi>Properties</hi> Invaded by falſe <hi>Zealots,</hi> but real Perſecution. His indefatigable Concern, for the publick Honour and Welfare of his <hi>Kingdom,</hi> you cannot but own; but you muſt inviolably own your Duty to him. <hi>Rebellion</hi>'s to be kept down by his Wiſdom, Courage, and Power; but by a generous and ready comply<g ref="char:EOLhyphen"/>ance in you. No <hi>Army</hi> ever gain'd <hi>Victory</hi> without <hi>Obedience;</hi> and no <hi>Kingdom</hi> without <hi>Obedience</hi> ſhall ever reap <hi>Glory. Humiliamini,</hi> &amp;c.
+<pb n="25" facs="tcp:180201:16"/>
+               <hi>Be ye then humbled, to be exalted. Vir Obediens loquetur Victoriam,</hi> Prov. 21. v. 28. <hi>The Obedient Man ſhall ſpeak Victory.</hi> We are to be Men, Stout Rational, but <hi>Obedient,</hi> to be <hi>Victorious</hi> both of our Earthly and Spiritual Foes. Let <hi>Jealouſies</hi> be laid aſide, and you'l improve your <hi>Sovereign</hi>'s Love: Appeaſe <hi>Animoſities,</hi> Chaſe away Fears, and you'l produce, and nouriſh a mutual Confidence in each other; to your own <hi>Quiet</hi> and <hi>Comfort,</hi> to the Terror of your Ene<g ref="char:EOLhyphen"/>mies, and to your <hi>King</hi> and <hi>Countreyes</hi> Renown. Thus in Spight of <hi>Rebellion,</hi> by <hi>Obedience</hi> to the Son, you'l compleat the Wiſhes of his Dying <hi>Father:</hi> You'l make an Atonement for that <hi>Sacrilegious Murder. Obedient England</hi> will be more Glorious, than ever ſhe was Diſgrac'd in the Ignominy put upon her, by a few Un<g ref="char:EOLhyphen"/>natural <hi>Rebels;</hi> and ſo enjoying the Fruits of a <hi>Peaceable Conſcience,</hi> the Sweets of a ſetled <hi>Tranquility</hi> in this Life, ſhe'l be diſpos'd to be Crown'd with <hi>Eternal</hi> Reward in the next: Which God of his Infinite <hi>Goodneſs</hi> grant us all. In the Name of the Father, and of the Son, and of the Holy Ghoſt. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
